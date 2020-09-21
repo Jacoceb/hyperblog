@@ -2,7 +2,7 @@
 Un blog para el curso de Git y Github de Platzi en el que todo lo agregado es con propósito pedagógico.
 >Así que esto es lo que se pide en la industria para triunfar...
 
-##En medio del curso se trabaja con:
+# En medio del curso se trabaja con:
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * BUENAS PRÁCTICAS
